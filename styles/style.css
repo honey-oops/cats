@@ -1,0 +1,61 @@
+p {
+    color: purple;
+    letter-spacing: 1px;
+}
+li {
+    color:darkcyan;
+}
+a:hover {
+    color:crimson;
+}
+li:hover {
+    color: orchid;
+}
+
+
+
+
+html {
+    font-family: "Indie Flower";
+    background-color:lightgrey ;
+}
+li {
+    letter-spacing: 3px;
+}
+
+body {
+    width: 600px;
+    background-color:white ;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    
+
+}
+.fact {
+    color: white;
+}
+/* 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: -10px -10px 1px lightslategray;
+}
+.fact:hover{
+    color: crimson;
+}
+
+#reminder{
+    color: tomato;
+}
+
+button {
+    color: darkorchid;
+}
